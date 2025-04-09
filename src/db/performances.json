@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Гамлет",
+    "director": "Колотов Денис",
+    "year": 2020,
+    "isRunning": true,
+    "actors": [1, 2]
+  },
+  {
+    "id": 2,
+    "title": "Ромео",
+    "director": "Жешко Вадим",
+    "year": 2021,
+    "isRunning": false,
+    "actors": [2]
+  }
+]
